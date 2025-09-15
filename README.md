@@ -15,8 +15,8 @@ Building data-driven products and end-to-end AI pipelines — from research to p
 
 ### 🚀 Featured Projects
 - 🎙️ [pdf2podcast-genai](https://github.com/priyanka2802/pdf2podcast-genai) — Turn research papers into podcasts (PDF → Script → Audio)  
-- 🖼️ [EfficientNet-Ensemble-Model](https://github.com/priyanka2802/EfficientNet-Ensemble-Model) — Ensemble learning for image classification  
-- 🌦️ [RNN-for-Weather-Forecasting](https://github.com/priyanka2802/RNN-for-Weather-Forecasting) — Time-series modeling with RNNs  
+- 🖼️ [efficientnet-ensemble](https://github.com/priyanka2802/EfficientNet-Ensemble-Model) — Ensemble learning for image classification  
+- 🌦️ [rnn-weather-forecasting](https://github.com/priyanka2802/RNN-for-Weather-Forecasting) — Time-series modeling with RNNs  
 
 ---
 
